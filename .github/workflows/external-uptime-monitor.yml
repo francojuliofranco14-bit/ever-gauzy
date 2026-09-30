@@ -1,4 +1,4 @@
-name: External Uptime Monitor
+name: Run default 
 
 # =====================================================================================
 #  🛑 THIS WORKFLOW MUST RUN ON GITHUB-HOSTED RUNNERS. DO NOT "FIX" IT TO self-hosted.
